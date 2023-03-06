@@ -1,1 +1,1 @@
-** Project information will be added as soon as possible **
+**Project information will be added as soon as possible**
