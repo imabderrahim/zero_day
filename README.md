@@ -1,6 +1,8 @@
-#Zero day project
-this project is created for alx SE course
-##How to use this project?
+# Project name
+**Zero day**
+## why this project?
+this project is created for *alx SE course*
+## How to use this project?
 feel free to clone the repository in your local directory
-##any Suggetions
+## any Suggetions
 just contact me
